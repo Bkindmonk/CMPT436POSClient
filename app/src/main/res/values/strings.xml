@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CMPT436POSClient</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ListButton">List All Items</string>
+    <string name="button">Button</string>
+    <string name="pos_main_page">POS Main Page</string>
+    <string name="this_is_a_popup_window">This is a popup window.</string>
+    <string name="database_not_responding">Database not Responding</string>
+</resources>
